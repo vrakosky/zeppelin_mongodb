@@ -3,3 +3,7 @@
 Setup inspired from :
 [https://github.com/cthiebault/docker-zeppelin-mongodb]
 [https://github.com/bbonnin/zeppelin-mongodb-interpreter]
+
+Collaborators:
+M'hand Glilah
+Candappane Vincent
